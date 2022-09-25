@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:e0c3fc,100:8ec5fc&height=300&section=header&text=YU%20DAYEON&fontSize=70)
 <div align="center">
-**👩‍💻 introduction**
-
+👩‍💻 introduction
 _2000년생 백엔드 개발자가 되고 싶은 대학생입니다 😊_
 ***
 ![da-pri's github stats](https://github-readme-stats.vercel.app/api?username=da-pri&show_icons=true)
