@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:e0c3fc,100:8ec5fc&height=300&section=header&text=YU%20DAYEON&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:e0c3fc,100:8ec5fc&height=300&section=header&text=YU%20DAYEON&fontSize=60
 ️👩‍💻 introduction
 2000년생 백엔드  개발자가 되고 싶은 학생입니다 😊
 ***
 <h1>✨Tech Stack</h1>
-***
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
