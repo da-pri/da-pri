@@ -4,7 +4,7 @@
 
 _2000년생 백엔드 개발자가 되고 싶은 대학생입니다 😊_
 ***
-![da-pri's github stats](https://github-readme-stats.vercel.app/api?username=da-pri&show_icons=true)
+![다연's github stats](https://github-readme-stats.vercel.app/api?username=da-pri&show_icons=true)
 [![da-pri's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=da-pri&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/da-pri)
 <h1>✨Tech Stack</h1>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
