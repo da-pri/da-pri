@@ -17,4 +17,3 @@ _2000년생 백엔드  개발자가 되고 싶은 학생입니다 😊_
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da-pri&show_icons=true&theme=prussian)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,100:8ec5fc&height=300&section=footer)
