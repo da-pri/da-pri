@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:e0c3fc,100:8ec5fc&height=300&section=header&text=YU%20DAYEON&fontSize=70) 
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:e0c3fc,100:8ec5fc&height=300&section=header&text=YU%20DAYEON&fontSize=70)
 ***
 <div align="center">
 <h3>👩‍💻introduction</h3>
